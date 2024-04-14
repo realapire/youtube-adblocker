@@ -1,6 +1,6 @@
 # Ad Blocker
 
-Based off any other AdBlocker
+Based off any other AdBlocker but works
 
 ## Usage
 
